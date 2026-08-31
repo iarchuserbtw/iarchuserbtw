@@ -26,5 +26,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 <br>
 
-### Courses
+### Other
 [![Stepik](https://img.shields.io/badge/Stepik-Profile-2C2C2C?style=for-the-badge&logo=stepik&logoColor=white)](https://stepik.org/users/542696962/profile)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-2C2C2C?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/wholeetcodeuser)
