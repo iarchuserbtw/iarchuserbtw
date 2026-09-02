@@ -31,6 +31,7 @@
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![Made with love](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 <br>
 
 ### Other
